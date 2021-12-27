@@ -27,3 +27,4 @@
 - оценка результатов А/В-тестирования;
 - выводы.
 
+Использовались  библиотеки pandas, numpy, matplotlib, seaborn, scipy, plotly
