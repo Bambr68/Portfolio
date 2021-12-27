@@ -1,5 +1,5 @@
 
-spis = 4
+spis = 3
 def fib(n):
     a = 0
     b = 1

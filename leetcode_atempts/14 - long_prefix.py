@@ -19,7 +19,7 @@ def longestCommonPrefix(strs):
         current = temp
     return current
 
-input_list = ["fleower","flew","fleoight"]
-#["dog","racecar","car"]
+# input_list = ["fleower","flew","fleoight"]
+input_list = ["dog","racecar","car"]
 
 print(longestCommonPrefix(input_list))
